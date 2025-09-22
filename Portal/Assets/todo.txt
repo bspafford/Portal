@@ -1,0 +1,17 @@
+    * fix recusion when looking through the portal to see another portal
+    * make everything look better
+//* see if i could fix lighting problems: shadows, etc
+    * make portal gun and crosshair
+    * make character model, could do something like how REPO with the look up and look down works with the character model?, I was thinking something like lara croft cause it'd be funny
+->* maybe even make a portal level
+    * fix collision problem, instead of making the whole wall lose collision, make just the portal section lose collision
+//* shooting portals through portals?
+    * you can see through the other portal before the other portal is placed, this shouldn't happen
+* problem when portals are upsidedown, it makes the character look in the wrong direction
+* problem with momentum when portals are rotated differently 
+    * make a protal effect so when the other portal isn't placed it shows something cool, I'm thinking a 3d effect where there are particles moving deeper into the portal like a tunnel
+->* companion cube
+  a few problems with teleporting while holding the cube
+  rotation sometimes
+  etc
+    * simulation transition: like random pixels start going away to reveal the portal or whatever, prolly somehow do this with noise and thresholds
