@@ -6,12 +6,6 @@ This is a prototype of a recursive portal system built in Unity URP. Inspired by
 - Real-time recursive portal rendering
 - Oblique projection matrix manipulation
 
-![Portal Example 1](assets/portal1.gif)
-![Portal Example 2](assets/portal2.gif)
-![Portal Example 3](assets/portal3.gif)
-![Portal Example 4](assets/portal4.gif)
-![Portal Example 5](assets/portal5.gif)
-
 **Engine:** Unity
 **Language:** C#
 
@@ -19,3 +13,9 @@ This is a prototype of a recursive portal system built in Unity URP. Inspired by
 2. Open with Unity 2021.3.18f1
 3. Open one of the scenes inside of the Scene folder
 4. Press Play
+
+![Portal Example 1](assets/portal1.gif)
+![Portal Example 2](assets/portal2.gif)
+![Portal Example 3](assets/portal3.gif)
+![Portal Example 4](assets/portal4.gif)
+![Portal Example 5](assets/portal5.gif)
