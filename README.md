@@ -1,4 +1,4 @@
-# Portal
+# Splitplane
 *A recursive rendering experiment in Unity URP*
 
 This is a prototype of a recursive portal system built in Unity URP. Inspired by Valv'es *Portal*, it supports multiple portal layers using custom rendering logic. Created to explore camera rendering, oblique projection, and shader optimization.
