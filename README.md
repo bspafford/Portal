@@ -10,6 +10,7 @@ This is a prototype of a recursive portal system built in Unity URP. Inspired by
 - Unity  
 - C#
 
+### How to Play
 1. Clone the repo
 2. Open with Unity 2021.3.18f1
 3. Open one of the scenes inside of the Scene folder
