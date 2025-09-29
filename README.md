@@ -6,8 +6,9 @@ This is a prototype of a recursive portal system built in Unity URP. Inspired by
 - Real-time recursive portal rendering
 - Oblique projection matrix manipulation
 
-**Engine:** Unity  
-**Language:** C#
+**Tech Stats:**
+- Unity  
+- C#
 
 1. Clone the repo
 2. Open with Unity 2021.3.18f1
